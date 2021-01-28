@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microfluidic chip | WANG Huadong</title>
+    <link>https://whdm818.github.io/tags/microfluidic-chip/</link>
+      <atom:link href="https://whdm818.github.io/tags/microfluidic-chip/index.xml" rel="self" type="application/rss+xml" />
+    <description>Microfluidic chip</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>Microfluidic chip</title>
+      <link>https://whdm818.github.io/tags/microfluidic-chip/</link>
+    </image>
+    
+    <item>
+      <title>The study of non-uniform illumination of high-throughput microfluidic qPCR</title>
+      <link>https://whdm818.github.io/publication/journal-article-201509/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/publication/journal-article-201509/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

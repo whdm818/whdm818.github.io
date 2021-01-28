@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | 王华东</title>
+    <link>https://whdm818.github.io/zh/publication_types/2/</link>
+      <atom:link href="https://whdm818.github.io/zh/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://whdm818.github.io/zh/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>基于表面图像锐度的LIBS自动对焦方法</title>
+      <link>https://whdm818.github.io/zh/publication/journal-article-201906/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/publication/journal-article-201906/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>集成微区成像的激光诱导击穿光谱系统的光谱信号稳定性分析</title>
+      <link>https://whdm818.github.io/zh/publication/journal-article-201903/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/publication/journal-article-201903/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIBS用于气溶胶分析的研究与应用进展</title>
+      <link>https://whdm818.github.io/zh/publication/journal-article-201609/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/publication/journal-article-201609/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>高通量微流控荧光定量PCR激发光非均匀性研究</title>
+      <link>https://whdm818.github.io/zh/publication/journal-article-201509/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/publication/journal-article-201509/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

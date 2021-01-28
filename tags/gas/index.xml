@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gas | WANG Huadong</title>
+    <link>https://whdm818.github.io/tags/gas/</link>
+      <atom:link href="https://whdm818.github.io/tags/gas/index.xml" rel="self" type="application/rss+xml" />
+    <description>gas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>gas</title>
+      <link>https://whdm818.github.io/tags/gas/</link>
+    </image>
+    
+    <item>
+      <title>Spectral signal stability of laser-induced breakdown spectroscopy system integrated with micro-imager</title>
+      <link>https://whdm818.github.io/publication/journal-article-201903/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/publication/journal-article-201903/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

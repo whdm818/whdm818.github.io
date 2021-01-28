@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spectroscopy | 王华东</title>
+    <link>https://whdm818.github.io/zh/tags/spectroscopy/</link>
+      <atom:link href="https://whdm818.github.io/zh/tags/spectroscopy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spectroscopy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>Spectroscopy</title>
+      <link>https://whdm818.github.io/zh/tags/spectroscopy/</link>
+    </image>
+    
+    <item>
+      <title>集成微区成像的LIBS 系统实现及应用研究</title>
+      <link>https://whdm818.github.io/zh/project/phd-project/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/project/phd-project/</guid>
+      <description>
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;原子光谱作为一种元素分析技术被广泛用于生物医药、食品安全、资源环境、空间探测等领域。激光诱导击穿光谱（Laser-induced breakdown spectroscopy, LIBS）作为一种新型的原子光谱技术，因其实时、非接触以及微损耗的优点受到众多研究者的青睐。由于LIBS非接触的特点，LIBS实验需要精确控制激光焦点相对样品表面的位置，实现对焦。针对这一问题，本文引入计算机视觉技术，搭建了一套集成微区成像的LIBS系统，并提出了基于表面图像锐度的自动对焦方法。另外，LIBS分析的精密度和准确度一直是限制其应用的关键所在。在完成系统搭建的基础上，本文针对LIBS定量分析应用的精准度开展了相关的实验研究和校准方法研究。论文主要内容包括以下几个方面：&lt;/p&gt;
+
+&lt;p&gt;（1）针对LIBS分析样品观察和样品位置控制的需要，融合计算机视觉技术和LIBS光谱分析技术实现了集成微区成像的LIBS系统。分别从硬件和软件两个方面阐述了系统的设计与实现。重点强调了LIBS系统的设计框架，并对硬件中的光学部分和软件中的仪器控制部分做了详细的阐述。&lt;/p&gt;
+
+&lt;p&gt;（2）针对LIBS分析的对焦需要，提出了基于表面图像锐度的LIBS对焦方法。重点分析了孔径光阑大小、目标区域大小以及样品表面反射率对表面图像位置敏感特性的影响，验证了表面图像锐度最大值对应位置的一致性。在此基础上实现了基于表面图像锐度的LIBS对焦方法。&lt;/p&gt;
+
+&lt;p&gt;（3）针对LIBS分析精密度问题，分析了影响LIBS信号稳定性的因素，提出了相应的数据处理方法。运用统计分析方法结合折线图与统计直方图综合分析了激光器的能量稳定性和光谱仪的噪声水平。通过对比气体样品和固体样品LIBS信号的稳定性特征，分析了光与物质相互作用界面对固体样品LIBS信号的影响。对于固体样品中随机波动的LIBS信号，可利用多次平均提高稳定性。&lt;/p&gt;
+
+&lt;p&gt;（4）针对LIBS定量分析准确度问题，研究了LIBS定量应用相关的校准方法。结合LIBS数据集特点，重点分析了校准建模过程中的过拟合问题。并以钢样的定量分析为例，结合偏最小二乘回归（Partial least squares regression, PLSR）多变量分析方法，开展了验证实验。分析结果验证了PLSR的可行性和数据集分割方式的重要性。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于表面图像锐度的LIBS自动对焦方法</title>
+      <link>https://whdm818.github.io/zh/publication/journal-article-201906/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/publication/journal-article-201906/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>集成微区成像的激光诱导击穿光谱系统的光谱信号稳定性分析</title>
+      <link>https://whdm818.github.io/zh/publication/journal-article-201903/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/publication/journal-article-201903/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

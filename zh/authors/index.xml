@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | 王华东</title>
+    <link>https://whdm818.github.io/zh/authors/</link>
+      <atom:link href="https://whdm818.github.io/zh/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://whdm818.github.io/zh/authors/</link>
+    </image>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://whdm818.github.io/zh/authors/admin/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/authors/admin/</guid>
+      <description>&lt;p&gt;王华东是中国科学院合肥物质科学研究院的博士后助理研究员，在中国科学院安徽光学精密机械研究所从事光学相关的研究。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

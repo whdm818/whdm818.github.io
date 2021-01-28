@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uneven | 王华东</title>
+    <link>https://whdm818.github.io/zh/tags/uneven/</link>
+      <atom:link href="https://whdm818.github.io/zh/tags/uneven/index.xml" rel="self" type="application/rss+xml" />
+    <description>uneven</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Tue, 30 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>uneven</title>
+      <link>https://whdm818.github.io/zh/tags/uneven/</link>
+    </image>
+    
+    <item>
+      <title>微流控qPCR荧光成像非均匀问题研究</title>
+      <link>https://whdm818.github.io/zh/project/msc-project/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/project/msc-project/</guid>
+      <description>
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;微流控qPCR利用微流控芯片技术实现了芯片上的荧光定量PCR反应，具有分析速度快、能耗低、污染小等特点，在分子生物学研究及医疗诊断领域应用广泛。荧光成像通过一次成像同时获取多个反应腔荧光信号，是微流控qPCR荧光检测的重要技术手段之一。荧光成像非均匀是影响微流控qPCR定量精度的主要因素之一。文章通过分析微流控qPCR过程，量化了微流控qPCR荧光成像非均匀性要求，并针对微流控芯片的结构特点设计了相应的荧光成像检测模块。&lt;/p&gt;
+
+&lt;p&gt;本文首先从荧光定量PCR数学原理出发，通过微分运算分析了荧光成像非均匀性对DNA浓度定量精度的影响，量化了荧光成像应满足的均匀性要求。从光学角度分析了导致荧光成像非均匀的因素，主要包括激发光路非均匀问题和成像光路非均匀问题。针对激发光路非均匀问题，将原有斜入射激发光路结构改为同轴激发，并引入光刻机中的光棒匀光技术用于提高激发光均匀性。针对成像光路非均匀问题，分析了产生成像非均匀问题的主要因素，通过合理选择物镜，优化物镜设置参数，对成像光路作了适当改进。&lt;/p&gt;
+
+&lt;p&gt;最后利用荧光素钠溶液对所设计荧光检测模块进行测试。结果表明，与现有斜入射荧光成像光路相比，基于光棒匀光的同轴荧光成像光路荧光成像均匀性得到很大提高。并且，同轴光路的使用对后续进行多种滤光片的切换功能的扩展提供了很大方便。将所改进后的荧光检测模块用于微流控qPCR荧光信号采集，结果表明，测量精度得到提高。&lt;/p&gt;
+
+&lt;h2 id=&#34;problem-nonuniformity-of-fluorescence-imaging&#34;&gt;Problem: Nonuniformity of fluorescence imaging&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Nonuniform-illumination.png&#34; alt=&#34;Nonuniform illumination&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reason-non-uniform-illumination&#34;&gt;Reason: Non-uniform illumination&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Nonuniform-illumination-problem.png&#34; alt=&#34;Nonuniform illumination problem&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;method-homogenizer-based-on-light-pipe&#34;&gt;Method: Homogenizer based on light pipe&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Nonuniform-illumination-solution.png&#34; alt=&#34;Nonuniform illumination solution&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;solution-design-and-implementation&#34;&gt;Solution: Design and Implementation&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/uniform-illumination-design.png&#34; alt=&#34;uniform illumination design&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/uniform-illumination-system.png&#34; alt=&#34;uniform illumination system&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Fluorescence-imaging-system.png&#34; alt=&#34;Fluorescence imaging system&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;comparison&#34;&gt;Comparison&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Comparison-of-the-two-systems.png&#34; alt=&#34;Comparison of the two systems&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

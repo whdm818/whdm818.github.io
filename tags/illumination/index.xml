@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>illumination | WANG Huadong</title>
+    <link>https://whdm818.github.io/tags/illumination/</link>
+      <atom:link href="https://whdm818.github.io/tags/illumination/index.xml" rel="self" type="application/rss+xml" />
+    <description>illumination</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>illumination</title>
+      <link>https://whdm818.github.io/tags/illumination/</link>
+    </image>
+    
+    <item>
+      <title>Research on issues about non-uniform fluorescence  imaging of microfluidic qPCR</title>
+      <link>https://whdm818.github.io/project/msc-project/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/project/msc-project/</guid>
+      <description>
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Microfluidic chip, as an important content of micro total analysis system, has become a hot research field in recent years. Microfluidic qPCR technology, based on microfluidic chip, with fast speed, low energy consumption, low pollution, is widely cared by the international experts in the fields of molecular biology and medical diagnostics. Fluorescence imaging is an important method of fluorescence detection of microfluidic qPCR, which get the fluorescence signals of all reaction chambers at the same time. Non-uniform Fluorescence imaging is the main factor affecting quantitative accuracy of qPCR. Based on the analysis of qPCR process, the uniformity requirement of fluorescence imaging has been defined. To acquire more accurate results of qPCR, a fluorescence detection module for Microfluidic qPCR is designed.&lt;/p&gt;
+
+&lt;p&gt;Firstly, based on the mathematical principles of quantitative PCR, the influence of non-uniform fluorescence imaging is analyzed through differential operation. And the uniformity requirement of fluorescence imaging has been defined. Secondly, the factors contributing to the non-uniform fluorescence imaging is analyzed and divided into two parts, the non-uniformity of the excitation process and the non-uniformity of the imaging process. To solve the non-uniformity of the excitation process, the original oblique incident light path is changed into the coaxial incident light path. What&amp;rsquo;s more, the light pipe is used in the incident light path, which is widely used in lithography technology for improving uniformity of excitation light. The main factors are analyzed to solve the non-uniformity of the imaging process. Choosing a suitable camera and optimizing lens parameters setting are convenient and efficient method for improving the uniformity of the imaging process.&lt;/p&gt;
+
+&lt;p&gt;Fluorescence detection module is tested by the fluorescence imaging of sodium fluorescein solution. Compared with the oblique incident light path, light pipe based coaxial incident light path greatly improve the uniformity of fluorescence imaging. What&amp;rsquo;s more, the coaxial structure is convenient for the subsequent expansion, such as the using of filter wheel. Improved fluorescence detection system is also used in the fluorescence signal acquisition of microfluidic qPCR. And the results show that the measurement accuracy meets the requirements.&lt;/p&gt;
+
+&lt;h2 id=&#34;problem-nonuniformity-of-fluorescence-imaging&#34;&gt;Problem: Nonuniformity of fluorescence imaging&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Nonuniform-illumination.png&#34; alt=&#34;Nonuniform illumination&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reason-non-uniform-illumination&#34;&gt;Reason: Non-uniform illumination&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Nonuniform-illumination-problem.png&#34; alt=&#34;Nonuniform illumination problem&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;method-homogenizer-based-on-light-pipe&#34;&gt;Method: Homogenizer based on light pipe&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Nonuniform-illumination-solution.png&#34; alt=&#34;Nonuniform illumination solution&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;solution-design-and-implementation&#34;&gt;Solution: Design and Implementation&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/uniform-illumination-design.png&#34; alt=&#34;uniform illumination design&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/uniform-illumination-system.png&#34; alt=&#34;uniform illumination system&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Fluorescence-imaging-system.png&#34; alt=&#34;Fluorescence imaging system&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;comparison&#34;&gt;Comparison&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;pics/Comparison-of-the-two-systems.png&#34; alt=&#34;Comparison of the two systems&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

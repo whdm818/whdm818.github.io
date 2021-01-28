@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>粒径分布 | 王华东</title>
+    <link>https://whdm818.github.io/zh/tags/%E7%B2%92%E5%BE%84%E5%88%86%E5%B8%83/</link>
+      <atom:link href="https://whdm818.github.io/zh/tags/%E7%B2%92%E5%BE%84%E5%88%86%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    <description>粒径分布</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>粒径分布</title>
+      <link>https://whdm818.github.io/zh/tags/%E7%B2%92%E5%BE%84%E5%88%86%E5%B8%83/</link>
+    </image>
+    
+    <item>
+      <title>LIBS用于气溶胶分析的研究与应用进展</title>
+      <link>https://whdm818.github.io/zh/publication/journal-article-201609/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/publication/journal-article-201609/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

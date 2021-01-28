@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | WANG Huadong</title>
+    <link>https://whdm818.github.io/authors/</link>
+      <atom:link href="https://whdm818.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://whdm818.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://whdm818.github.io/authors/admin/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;WANG Huadong is a postdoctoral research assistant at the Anhui Institute of Optics and Fine Mechanics, Hefei Institute of Physical Sciences, Chinese Academy of Sciences. He does research in Optics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

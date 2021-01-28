@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>激光诱导击穿光谱 | 王华东</title>
+    <link>https://whdm818.github.io/zh/tags/%E6%BF%80%E5%85%89%E8%AF%B1%E5%AF%BC%E5%87%BB%E7%A9%BF%E5%85%89%E8%B0%B1/</link>
+      <atom:link href="https://whdm818.github.io/zh/tags/%E6%BF%80%E5%85%89%E8%AF%B1%E5%AF%BC%E5%87%BB%E7%A9%BF%E5%85%89%E8%B0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>激光诱导击穿光谱</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://whdm818.github.io/img/icon-192.png</url>
+      <title>激光诱导击穿光谱</title>
+      <link>https://whdm818.github.io/zh/tags/%E6%BF%80%E5%85%89%E8%AF%B1%E5%AF%BC%E5%87%BB%E7%A9%BF%E5%85%89%E8%B0%B1/</link>
+    </image>
+    
+    <item>
+      <title>LIBS用于气溶胶分析的研究与应用进展</title>
+      <link>https://whdm818.github.io/zh/publication/journal-article-201609/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://whdm818.github.io/zh/publication/journal-article-201609/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
